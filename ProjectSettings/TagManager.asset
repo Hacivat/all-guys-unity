@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - StaticObstacle
+  - MovingObstacle
+  - Turning Point
+  - Painting Area
+  - Painting Wall
+  - Rotating Platform
+  - Half Donut
+  - Finish Translate Point
+  - Sea
+  - Opponent
+  - DropChecker
+  - StaticObstaclesPlatform
+  - FinishPoint
+  - Score Text
+  - SpawnPoints
+  - PaintTheWallText
+  - GameOverText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
